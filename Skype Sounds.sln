@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Skype Sounds", "Skype Sounds\Skype Sounds.vbproj", "{77616520-9202-473F-BA93-ACC320DC3103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77616520-9202-473F-BA93-ACC320DC3103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77616520-9202-473F-BA93-ACC320DC3103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77616520-9202-473F-BA93-ACC320DC3103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77616520-9202-473F-BA93-ACC320DC3103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C182225C-34DB-4256-9ADE-1C55771193A0}
+	EndGlobalSection
+EndGlobal
